@@ -33,4 +33,4 @@ Before running this application, make sure you have:
 
 1. Clone the repository:
 ```bash
-   git clone [[repository-url]](https://github.com/ggmxip/BlockVote)
+   git clone github.com/ggmxip/BlockVote
