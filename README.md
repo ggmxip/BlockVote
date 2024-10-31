@@ -1,7 +1,17 @@
 # BlockVote- Decentralized Voting Application
 
 
-assets/2024-10-31 19-01-41.mkv
+## Demo
+
+
+Check out this video demonstration of the application:
+
+
+[![Decentralized Voting Application Demo](https://img.youtube.com/vi/C8OXFqsDjRE/0.jpg)](https://www.youtube.com/watch?v=C8OXFqsDjRE)
+
+
+Click the image above to watch the full video on YouTube.
+
 A blockchain-based voting application built with React and Ethereum smart contracts. This application allows users to participate in a secure and transparent voting process using their MetaMask wallet.
 
 ## Features
